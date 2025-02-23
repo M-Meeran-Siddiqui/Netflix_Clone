@@ -25,7 +25,7 @@ This project is a **fully responsive and interactive** clone of the **Netflix we
 
 ## 📽️ Project Demo  
 ### 🎥 Watch on YouTube  
-[![Watch the Video](https://img.youtube.com/vi/PDNGI0KouzQ/0.jpg)](https://youtu.be/PDNGI0KouzQ)  
+[![Watch the Video](https://img.youtube.com/vi/IYCUsZX51M8/0.jpg)](https://youtu.be/IYCUsZX51M8)  
 
 ## 📂 Installation & Usage  
    Clone this repository:  
